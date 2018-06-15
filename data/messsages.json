@@ -1,0 +1,11 @@
+{
+    "WELCOME": "Welcome to Trans link! Get transit information by asking me about a bus number and direction.",
+    "WHAT_DO_YOU_WANT": "Ask me about a bus number. For example: when is the next 20 heading downtown?",
+    "NOTIFY_MISSING_PERMISSIONS": "Please enable Location permissions in the Amazon Alexa app.",
+    "NO_ADDRESS": "It looks like you don't have an address set on your device. You can set your address from the Alexa app, or from the Alexa dashboard online",
+    "ERROR": "Uh Oh. Something went wrong.",
+    "GOODBYE": "Bye! Thanks for using Translink!",
+    "UNHANDLED": "This skill doesn't support that. Please ask something else.",
+    "HELP": "Ask me about a bus number. For example: when is the next 20 heading downtown?",
+    "STOP": "Thank you!"
+}
